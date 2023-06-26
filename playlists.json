@@ -1,0 +1,48 @@
+{
+    "userid2": {
+        "name": "Best early 2000s hits",
+        "public": true,
+        "created_by": "userid2",
+        "tracks": [
+            1,
+            2
+        ]
+    },
+    "userid1": {
+        "name": "Pretty ladies who sing",
+        "public": false,
+        "created_by": "userid1",
+        "tracks": [
+            0,
+            2
+        ]
+    },
+    "userid3": {
+        "name": "Amapiano",
+        "public": true,
+        "created_by": "userid3",
+        "tracks": [
+            1,
+            2,
+            3
+        ]
+    },
+    "userid5": {
+        "name": "Quantaum Sound",
+        "public": true,
+        "created_by": "userid5",
+        "tracks": [
+            0,
+            3
+        ]
+    },
+    "64995b4bf27d1": {
+        "name": "my playlist",
+        "public": false,
+        "created_by": "userid1",
+        "tracks": [
+            2
+        ],
+        "id": "64995b4bf27d1"
+    }
+}

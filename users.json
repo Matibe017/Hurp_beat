@@ -1,0 +1,16 @@
+{
+    "userid1": {
+        "username": "admin",
+        "email": "email@gmail.com",
+        "password": "admin",
+        "isAdmin": true,
+        "id": "userid1"
+    },
+    "userid2": {
+        "username": "user2",
+        "email": "email2@gmail.com",
+        "password": "pwd2",
+        "isAdmin": false,
+        "id": "userid2"
+    }
+}
